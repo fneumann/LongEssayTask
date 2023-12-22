@@ -1,4 +1,7 @@
 # LongEssayTask (Pre-Test Version)
+
+This repository is no longer maintained. Please use the [LongEssayAssessment](https://github.com/EDUTIEK/LongEssayAssessment) plugin instead.
+
 Plugin for the LMS ILIAS open source to realize exams with writing of long texts.
 
 This pre-test version supports an initial set of functionality from the [EDUTIEK project](https://www.edutiek.de)
@@ -9,10 +12,6 @@ It was successfully tested at:
 * Justiz Bremen (26 participants)
 * Universität Bielefeld (29 participants)
 * Universität Münster (69 participants)
-
-The  development of the pre-test version is finished. This repository will only get bug fixes.
-
-The **Pilot Version** is under development. it is renamed to **LongEssayAssessment** and maintained in a [new GitHub Repository](https://github.com/EDUTIEK/LongEssayAssessment). 
 
 
 
